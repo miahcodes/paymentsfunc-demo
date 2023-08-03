@@ -1,0 +1,11 @@
+query Input {
+  cart {
+    bnpl: attribute(key: "bnpl"){
+      value
+    }
+  }
+  paymentMethods {
+    id
+    name
+  }
+}

@@ -1,0 +1,10 @@
+{
+    "cart": {
+      "lines": [
+        {
+          "id": "gid://shopify/CartLine/2",
+          "quantity": 1
+        }
+      ]
+    }
+  }
